@@ -1,0 +1,18 @@
+[
+    {
+        "role":"React JS Internship",
+        "organization": "SixHats",
+        "startDate": "April 3rd, 2021",
+        "endDate": "Sep 3rd 2023",
+        "experience": ["Basic of React JS", "Hooks concet", "Routing"],
+        "imagesrc": "history/google.png"
+    },
+    {
+        "role":"Technical writer and React Developer",
+        "organization": "contentio.lab",
+        "startDate": "Feb 18, 2023",
+        "endDate": "Oct 30 2023",
+        "experience": ["Documentation", "Overleaf", "Building website"],
+        "imagesrc": "history/google.png"
+    }
+]

@@ -1,0 +1,113 @@
+@import "../../vars.css";
+
+.container{
+    display: flex;
+    align-items: center;
+    color: var(--color-text);
+    background-color: var(--color-secondary);
+    margin-top: 120px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding: 58px 10%;
+    gap: 10px;
+}
+.text h2{
+        font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+.text p{
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 20px
+}
+.link{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.link a{
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    gap: 120px;
+    /* padding: 10px; */
+    margin-right: 5%;
+    
+}
+
+.formContents{
+    text-decoration: none;
+    padding: 5px;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    
+}
+.formText{
+    font-size: 25px;
+    letter-spacing: 1.75px;
+    
+}
+.inputField{
+    width: 250px;
+    height: 30px;
+    border-radius: 7%;
+    border: none;
+    
+}
+.messageInputs{
+    height: 120px;
+    width: 400px;
+    border-radius: 5%;
+    border: none;
+}
+
+.formBtn{
+    background-color: var(--color-primary);
+    width: 70px;
+    height: 40px;
+    padding: 1px;
+    font-size: 25px;
+    color: var(--color-text);
+    border-radius: 15%;
+    border: none;
+    margin-top: 9px;
+    align-items: center;
+
+}
+
+@media screen and (max-width: 830px){
+    .container{
+        display: flex;
+        flex-direction: column;
+        font-size: 20px;
+        font-weight: 400;
+        padding: 3px 30%;
+        /* margin: 2px; */
+        margin-top: 15%;
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-right: 18%;
+    }
+    
+}

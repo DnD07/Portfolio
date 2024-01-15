@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Online Car Sale",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to order car online.",
+        "skills": ["HTML", "Java scipt", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Online-car-sale"
+    },
+    {
+        "title": "Expense Tracker",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to track income and expenses",
+        "skills": ["React", "Java scipt", "html", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Expense-Tracker"
+    },
+    {
+        "title": "News Webiste",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to see news",
+        "skills": ["React", "Java scipt", "html", "Bootstrap", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/News-Website"
+    },
+    {
+        "title": "Twitter Clone",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a twitter clone project",
+        "skills": ["React", "Java scipt", "html", "CSS", "Bootstrap"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Twitterclone"
+    },
+    {
+        "title": "Youtube Clone",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a youtube clone project",
+        "skills": ["React", "Java scipt", "html", "CSS", "Bootstrap"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Youtube-Clone"
+    },
+    {
+        "title": "Ecommerce",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a ecommerce project",
+        "skills": ["React", "Java scipt", "html", "Bootstrap", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Ecommerce-React"
+    },
+    {
+        "title": "Student grade calculator",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to calculate student grade",
+        "skills": [ "Java scipt", "html", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Student-grade-calculator"
+    },
+    {
+        "title": "Text-Editor",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to edit test to different form",
+        "skills": [ "Java scipt", "html", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/Student-grade-calcu"
+    },
+    {
+        "title": "E-learning",
+        "imagesrc" : "projects/project.png",
+        "description": "This is a project to learn subject online and book the course",
+        "skills": [ "Javs Sipt", "html", "CSS", ".Net"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/DnD07/E-leaarning"
+    }
+
+]
